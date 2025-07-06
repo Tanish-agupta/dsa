@@ -26,7 +26,8 @@ A simple yet powerful desktop application built with **Tkinter** to check the st
 
 ## 🖥️ GUI Preview
 
-![image](https://github.com/user-attachments/assets/5c5ea38c-e9fc-476e-8338-a9b0251d699c)
+![image](https://github.com/user-attachments/assets/4ac7c494-34e3-40bd-87a6-4fcca50e5797)
+
 
 
 ## 🚀 Getting Started
