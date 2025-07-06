@@ -26,7 +26,8 @@ A simple yet powerful desktop application built with **Tkinter** to check the st
 
 ## 🖥️ GUI Preview
 
-![Password Strength Checker Screenshot](screenshot.png) <!-- Replace with actual image file if available -->
+![image](https://github.com/user-attachments/assets/5c5ea38c-e9fc-476e-8338-a9b0251d699c)
+
 
 ## 🚀 Getting Started
 
